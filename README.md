@@ -1,5 +1,5 @@
 # ConvertRGBintoCMYK
-This is program converting the RGB(Red Green Blue three hues of light) into the CMYK(Cyan, Magenta, Yellow, and Key)
+This program is converting the RGB(Red Green Blue three hues of light) into the CMYK(Cyan, Magenta, Yellow, and Key)
 
  This program converting the RGB into the CMYK. Where the scale for RGB is
  from 0 to 255, and for CMYK from 0.0 to 1.0.
